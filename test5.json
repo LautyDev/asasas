@@ -1,1 +1,10 @@
-
+{
+  "android": {
+    "versionCode": 2,
+    "versionName": "1.0.1",
+    "apkUrl": "https://cdn.chnelectro.com/installers/accelerator/accelerator-1.0.1.apk",
+    "mandatory": true,
+    "minSupportedVersionCode": 2,
+    "fileSize": 80969510
+  }
+}
